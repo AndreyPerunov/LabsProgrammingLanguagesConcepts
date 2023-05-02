@@ -6,8 +6,11 @@
 - Use `npm run test 4 3` to run specific file. First number `4` is **Lab**, second `3` is **Task** you want to execute.
 
 Lab 1: 6 tasks.
+
 Lab 2: 10 tasks.
+
 Lab3: 7 tasks.
+
 Lab4: 4 tasks.
 
 ## Lab 1
