@@ -1,5 +1,7 @@
 # Programming Languages Concepts Labs
 
+## Quick start
+
 - Use `git clone https://github.com/AndreyPerunov/LabsProgrammingLanguagesConcepts.git` to clone repository
 - Use `npm i` to install necessary packages.
 - Use `npm run build` to compile *TypeScript* to *JavaScript*
