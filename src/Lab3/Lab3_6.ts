@@ -12,7 +12,7 @@ let matrix: number[][] = [[], [], [], []]
 let sum = 0
 for (let i = 0; i < 4; i++) {
   for (let j = 0; j < 4; j++) {
-    matrix[i][j] = parseFloat(await prompt.question(`Enter element for rom ${i + 1} column ${j + 1}: `))
+    matrix[i][j] = parseFloat(await prompt.question(`Enter element for row ${i + 1} column ${j + 1}: `))
     sum += matrix[i][j]
   }
 }
