@@ -16,6 +16,7 @@ Lab4: 4 tasks.
 ## Lab 1
 
 **Topic**: Basic Operators in Programming Language.
+
 **Task**:
 1. (Type integer, arithmetic operators, integer operators) Write a program which reads two integers and then displays a) their product and b) their quotient when the first is dividend (DIV) by the second.
 2. (Type real, format descriptor) Write a program which accepts three real numbers, computes their sum and outputs the result. Amend the program so that the result is output to 2 dp.
@@ -27,6 +28,7 @@ Lab4: 4 tasks.
 ## Lab 2
 
 **Topic**: Basic Operators in Programming Language.
+
 **Task**:
 1. Write a program which finds the roots of a quadratic equation from the three coefficients (a, b, c) using the formula roots= (-b +- sqrt(b ^2 - 4ac)) / 2a. (a is the coefficient for x2 b for x and c for the numeric part.)
 2. Write a program which accepts two real numbers, asks whether the user requires a rounded or truncated result and then outputs their product in the form requested.
@@ -42,6 +44,7 @@ Lab4: 4 tasks.
 ## Lab 3
 
 **Topic**: Strings & Arrays in Programming Language.
+
 **Task**:
 1. Calculate the length.
 2. Write a program that reads a first name and a second name from the user and joins them together in a single string (concatenation).
@@ -54,6 +57,7 @@ Lab4: 4 tasks.
 ## Lab 4
 
 **Topic**: Procedures and Functions in Programming Language.
+
 **Task**:
 1. Write procedure Maximum for three real numbers that accepts from the keyboard.
 2. Write two functions of a number raised to the square. In the first function parameter transmits by value, in the second – by reference
